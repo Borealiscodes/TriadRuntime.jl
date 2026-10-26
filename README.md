@@ -20,7 +20,7 @@ TriadRuntime.jl is a Julia‑based runtime engine that turns radio signals
 (Wi‑Fi, BLE, AirPlay) into structured geometric information.
 
 It started as a simple RF scanner in the 8b Project, built on top of WiGLE’s  
-ecosystem. Thanks to the original WiGLE maintainers —  
+ecosystem. Thanks to the original Wigl maintainers —  
 Christopher Chenoweth and Peter Lodri — the early telemetry patterns  
 became the foundation for Triad Algebra v1.0.
 
